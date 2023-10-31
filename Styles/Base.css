@@ -1,0 +1,17 @@
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 50%;
+    border-radius: 8px;
+}
+
+
+.head {
+    font-weight: bold;
+    font-style: italic;
+    color: darkorange;
+    
+}
