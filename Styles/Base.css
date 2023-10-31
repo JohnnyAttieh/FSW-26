@@ -1,4 +1,6 @@
-
+body{
+    background-color: darkolivegreen;
+}
 .img{
     display: block;
     margin-left: auto;
@@ -14,4 +16,18 @@
     font-style: italic;
     color: darkorange;
     
+}
+
+.paragraph{
+    background-color: grey;
+
+}
+
+ul{
+    display: inline-flex;
+    margin: 0px;
+    padding: 30px;
+}
+li{
+    margin-right: 100px;
 }
